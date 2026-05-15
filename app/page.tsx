@@ -24,6 +24,7 @@ export default function Home() {
   const [feedback, setFeedback] = useState("");
   const [correctCount, setCorrectCount] = useState(0);
 
+
   useEffect(() => {
     setWord(getRandomWord());
   }, []);
