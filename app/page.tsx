@@ -185,7 +185,7 @@ export default function Home() {
       setCorrectAnswers((prev) => prev + 1);
     } else {
       setFeedback(
-        `Fout. Antwoord: ${expectedAnswer}`
+        `Fout. Vertaling van ${getQuestion(word, mode)} is: ${expectedAnswer}`
       );
       setWrongAnswers((prev) => prev + 1);
     }
@@ -315,7 +315,14 @@ export default function Home() {
         Check
       </button>
 
-      <p>{feedback}</p>
+      <h2
+        style={{
+          fontSize: 24,
+          fontWeight: 600,
+          marginBottom: 10,
+          marginTop: 10,
+          color: "#190cab",
+        }}>{feedback}</h2>
 
       <p>
         Over: {activeWords.length} woorden
