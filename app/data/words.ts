@@ -24,7 +24,7 @@ export const words = [
     { nl: "moeite hebben", en: "struggle", set: 2 },
     { nl: "mislukken, niet slagen", en: "fail", set: 2 },
     { nl: "verdedigen", en: "defend", set: 2 },
-    { nl: "keeper, doelman/vrouw", en: "goalie/goalkeeper", set: 2 },
+    { nl: "keeper, doelman/vrouw", en: "goalkeeper", set: 2 },
     { nl: "passen (van bal)", en: "pass", set: 2 },
     { nl: "schieten", en: "shoot", set: 2 },
     { nl: "koppen", en: "head", set: 2 },
