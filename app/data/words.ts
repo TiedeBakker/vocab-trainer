@@ -89,7 +89,7 @@ export const words = [
     { nl: "Het was in mijn kamer.", en: "It was in my room.", set: 6 },
     { nl: "Ze waren in mijn jas.", en: "They were in my coat.", set: 6 },
     { nl: "januari", en: "January", set: 7 },
-    { nl: "februari", en: "Februay", set: 7 },
+    { nl: "februari", en: "February", set: 7 },
     { nl: "maart", en: "March", set: 7 },
     { nl: "april", en: "April", set: 7 },
     { nl: "mei", en: "May", set: 7 },
