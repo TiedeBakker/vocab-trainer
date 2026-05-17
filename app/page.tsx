@@ -239,21 +239,49 @@ export default function Home() {
           onClick={() => setSelectedSet(1)}
           style={selectedSet === 1 ? activeButtonStyle : buttonStyle}
         >
-          Lijst 1
+          Woorden 1
         </button>
 
         <button
           onClick={() => setSelectedSet(2)}
           style={selectedSet === 2 ? activeButtonStyle : buttonStyle}
         >
-          Lijst 2
+          Woorden 2
         </button>
 
         <button
           onClick={() => setSelectedSet(3)}
           style={selectedSet === 3 ? activeButtonStyle : buttonStyle}
         >
-          Lijst 3
+          Woorden 3
+        </button>
+
+        <button
+          onClick={() => setSelectedSet(4)}
+          style={selectedSet === 3 ? activeButtonStyle : buttonStyle}
+        >
+          Zinnen 1
+        </button>
+
+        <button
+          onClick={() => setSelectedSet(5)}
+          style={selectedSet === 3 ? activeButtonStyle : buttonStyle}
+        >
+          Zinnen 2
+        </button>
+
+        <button
+          onClick={() => setSelectedSet(6)}
+          style={selectedSet === 3 ? activeButtonStyle : buttonStyle}
+        >
+          Zinnen 3
+        </button>
+
+        <button
+          onClick={() => setSelectedSet(7)}
+          style={selectedSet === 3 ? activeButtonStyle : buttonStyle}
+        >
+          Maanden
         </button>
 
         <button
