@@ -72,7 +72,7 @@ export const words = [
     { nl: "Ik ben blij dat het vandaag zonnig is.", en: "I’m glad that is’s sunny today.", set: 4 },
     { nl: "Nummer 6 krijgt de bal en scoort.", en: "Number 6 gets the ball and scores.", set: 5 },
     { nl: "Jones passt de bal naar voren.", en: "Jones passes the ball forward.", set: 5 },
-    { nl: "Veliz schiet en ja de bal gaat in het net.", en: "Veliz shoots, and yes the ballgoes into the net.", set: 5 },
+    { nl: "Veliz schiet, en ja de bal gaat in het net.", en: "Veliz shoots, and yes the ballgoes into the net.", set: 5 },
     { nl: "Wat een geweldige redding van de keeper.", en: "What a great save by the goalkeeper.", set: 5 },
     { nl: "De aanvaller is heel snel.", en: "The attacker is very fast.", set: 5 },
     { nl: "Ze dribbelt de bal zonder problemen langs de verdediging.", en: "She dribbles the ball past the defence with no trouble at all.", set: 5 },
