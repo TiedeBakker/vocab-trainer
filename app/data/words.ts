@@ -69,7 +69,7 @@ export const words = [
     { nl: "Ik ben een beetje moe, omdat ik een enge droom had.", en: "I’m a little tired becauce I had a scary dream.", set: 4 },
     { nl: "Ik word verdrietig als ik vroeg moet opstaan.", en: "I get sad when I have to get up early.", set: 4 },
     { nl: "Bewegen geeft me een goed gevoel.", en: "Exercising makes me feel good.", set: 4 },
-    { nl: "Ik ben blij dat het vandaag zonnig is.", en: "I’m glad that is’s sunny today.", set: 4 },
+    { nl: "Ik ben blij dat het vandaag zonnig is.", en: "I’m glad that it’s sunny today.", set: 4 },
     { nl: "Nummer 6 krijgt de bal en scoort.", en: "Number 6 gets the ball and scores.", set: 5 },
     { nl: "Jones passt de bal naar voren.", en: "Jones passes the ball forward.", set: 5 },
     { nl: "Veliz schiet, en ja de bal gaat in het net.", en: "Veliz shoots, and yes the ballgoes into the net.", set: 5 },
