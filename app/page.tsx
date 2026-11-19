@@ -281,7 +281,7 @@ export default function Home() {
           onClick={() => setSelectedSet(7)}
           style={selectedSet === 7 ? activeButtonStyle : buttonStyle}
         >
-          Manden
+          Aanmoedigen
         </button>
 
         <button
